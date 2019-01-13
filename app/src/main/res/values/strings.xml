@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <string name="Name">Name</string>
+    <string name="add_btn_label">Add</string>
+    <string name="InputText">InputText</string>
+    <string name="ShowAll">Show All</string>
+    <string name="ShowCompleted">Show Completed</string>
+    <string name="ShowPending">Show Pending</string>
+
+    <string-array name="item">
+         <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+        <item android:id="@+id/showall"
+            android:title="@string/ShowAll"
+            app:showAsAction="never"/>
+
+        <item android:id="@+id/showcompleted"
+            android:title="@string/ShowCompleted"
+            app:showAsAction="never"/>
+
+        <item android:id="@+id/showpending"
+            android:title="@string/ShowPending"
+            app:showAsAction="never"/>
+
+
+
+
+</menu>
